@@ -1,1 +1,3 @@
-# mern-stack-template
+# MERN Stack Template
+
+Add .env to .gitignore
